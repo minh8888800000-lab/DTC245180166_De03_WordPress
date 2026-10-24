@@ -1,0 +1,8 @@
+.env
+app/
+wordpress_data/
+mysql_data/
+grafana_data/
+loki_data/
+prom_data/
+*.log
